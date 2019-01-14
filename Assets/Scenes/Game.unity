@@ -320,6 +320,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3702584678652043, guid: fec03fa80ab253e4fbbb0df551ff8440,
         type: 3}
+    - target: {fileID: 6676606404650542436, guid: 6fbb60026d26ef64b8e72eb50eb42c68,
+        type: 3}
+      propertyPath: projectileFiringPeriod
+      value: 0.05
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6fbb60026d26ef64b8e72eb50eb42c68, type: 3}
 --- !u!1001 &7993165591402325534
