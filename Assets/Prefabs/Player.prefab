@@ -98,7 +98,7 @@ MonoBehaviour:
   health: 200
   laserPrefab: {fileID: 3702584678652043, guid: fec03fa80ab253e4fbbb0df551ff8440,
     type: 3}
-  projectileSpeed: 20
+  projectileSpeed: 15
   projectileFiringPeriod: 0.05
   deathSFX: {fileID: 8300000, guid: 5638f755a6c2a8147a3711db5e3497d2, type: 3}
   deathSFXVolume: 1
